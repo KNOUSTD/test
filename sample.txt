@@ -1,2 +1,2 @@
 error hihi test 
-line added
+error 2 line added
