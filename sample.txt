@@ -1,2 +1,2 @@
-hihi test 
+error hihi test 
 line added
